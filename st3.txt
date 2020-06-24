@@ -1,0 +1,12 @@
+1.Select Build > Clean Project from the Android Studio toolbar, wait a few moments, and then build your project by selecting Build > Rebuild Project.
+
+If a single clean/rebuild cycle doesn’t work, then try repeating this process a few times, multiple clean/rebuild cycles in quick succession usually work.
+
+2. Disconnect all devices connected to System/Close all emulators running on System.
+Turn Off Instant Run feature from settings.
+Perform a clean build.
+Turn ON Instant Run feature from settings.
+Perform a clean build.
+Connect your device/start your Emulator and ensure it is online.
+
+3. This error can be resolved by using a try-catch block or an if-else condition to check if a reference variable is null before dereferencing it.
